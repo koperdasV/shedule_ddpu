@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1041764166298",
+    "firebase_url": "https://sheduleddpu-dev.firebaseio.com",
+    "project_id": "sheduleddpu-dev",
+    "storage_bucket": "sheduleddpu-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041764166298:android:a3c63d9a9a5c2b6c50cd23",
+        "android_client_info": {
+          "package_name": "com.koperdas.shedule_ddpu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041764166298-nhr6ge4o4lftpan2i41l0j2loers2ij3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeMbb6-DS_Dj2V3sEZaeW9wF-Sb6nqoEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041764166298-nhr6ge4o4lftpan2i41l0j2loers2ij3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
